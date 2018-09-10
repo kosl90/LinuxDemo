@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Qt stuffs
+moc_*
